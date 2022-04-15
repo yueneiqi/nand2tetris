@@ -1,0 +1,5 @@
+# Mac cache
+**/.DS_Store
+
+# Vscode cache
+.vscode
